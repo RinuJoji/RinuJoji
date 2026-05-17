@@ -6,9 +6,8 @@ I am an aspiring software engineer passionate about coding, problem-solving, and
 
 ## 🔹 Skills
 **Programming Languages:** Python, C  
-**Web Development:** HTML, CSS, JavaScript  
-**Database:** MongoDB, MySQL  
-**Tools & Technologies:** GitHub, VS Code  
+**Web Development:** HTML, CSS, JavaScript, React.js  
+**Tools & Technologies:** GitHub, VS Code, Figma 
 
 ## 🔹 Projects
 
